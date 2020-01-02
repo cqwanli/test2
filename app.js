@@ -1,3 +1,3 @@
 export default {
-    name: "the entry point of test2"
+    name: "the entry point of test22222"
 }
